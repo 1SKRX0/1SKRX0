@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#hello world!
+# hello world!
 
 - 🔭 I’m currently working on coming up with a data visualization project
 - 🌱 I’m currently learning how to use Git and Python
